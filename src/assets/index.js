@@ -24,11 +24,21 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import myZamtelscreenshot from "./myZamtelscreenshot.png";
+import HR from "./HR.png";
+import tesla from "./tesla.png";
+import netflix from "./netflix.png";
+import bulk from "./bulk.png";
+import za2 from "./za2.png";
+import deviceFinance from "./deviceFinance.png";
+import covid19 from "./covid19.png";
+import michael from "./michael.jpg";
+import nkandu from "./nkandu.jpg";
+import patrick from "./patrick.jpg";
 
 export {
   logo,
@@ -55,8 +65,20 @@ export {
   meta,
   shopify,
   starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
+  HR,
+  tesla,
+  netflix,
+  bulk,
+  za2,
+  deviceFinance,
+  myZamtelscreenshot,
+  covid19,
+  michael,
+  patrick,
+  nkandu
 };
+
+

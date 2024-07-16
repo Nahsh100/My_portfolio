@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I am Web and mobile app Developer specializing in React and Next Js development.
+         Experienced with all stages of the development cycle for dynamic web mobile projects. I am
+          Well-versed in numerous programming languages/technologies including HTML5,
+           JavaScript, React JS, next JS, react native, Typescript, CSS, Firebase, Node js, redux and WordPress CMS. 
+           Howerver, my biggest strength is my problem solving skills and innovative mind. 
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
